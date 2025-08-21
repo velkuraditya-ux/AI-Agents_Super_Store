@@ -1,6 +1,6 @@
 # AI-Agents_Super_Store
 
-For Output, please check AI_Agents_Task.pdf
+For Output, please check Output.pdf
 
 #  LangChain SQL Agents (Streamlit + Groq)
 
